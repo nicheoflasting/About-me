@@ -1,5 +1,6 @@
 # 💫 About Me:
 💻 Studying ICT programme at Jyväskylä University of Applied Sciences (JAMK), Finland
+
 🏢 Pursuing Data Analyst path
 
 # 💻 Tech Stack:
